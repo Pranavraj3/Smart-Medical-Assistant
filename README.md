@@ -36,12 +36,3 @@ This project addresses the challenge of preliminary medical screening by using a
 ├── random_forest_medical_model.pkl  # Trained ML Model
 ├── symptoms_list.pkl                # Serialized list of symptom features
 └── README.md                        # Project documentation
-
-
-## ⚙️ Installation & Local Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Pranavraj3/Smart-Medical-Assistant.git
-   cd Medical-Diagnostic-Assistant
-
