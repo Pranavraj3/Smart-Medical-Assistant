@@ -5,7 +5,7 @@ A professional-grade web application that leverages **Machine Learning (Random F
 ---
 
 ## 🚀 Live Demo
-**[Insert your Streamlit Cloud Link Here]**
+**[(http://localhost:8501/)]**
 
 ---
 
