@@ -5,7 +5,7 @@ A professional-grade web application that leverages **Machine Learning (Random F
 ---
 
 ## 🚀 Live Demo
-**[(http://localhost:8501/)]**
+**http://localhost:8501/**
 
 ---
 
