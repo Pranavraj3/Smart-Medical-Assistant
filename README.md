@@ -4,11 +4,6 @@ A professional-grade web application that leverages **Machine Learning (Random F
 
 ---
 
-## 🚀 Live Demo
-**http://localhost:8501**
-
----
-
 ## 📊 Project Overview
 This project addresses the challenge of preliminary medical screening by using a supervised learning approach. It maps a high-dimensional symptom input vector to specific disease categories and provides immediate, formatted medication suggestions.
 
